@@ -1094,7 +1094,7 @@ public class AutoCrystal extends Module
             new HelperRange(this);
 
     public AutoCrystal() {
-        this("AutoCrystal", Category.Combat);
+        this("AutoBomba", Category.Combat);
     }
 
     public AutoCrystal(String name, Category category) {
