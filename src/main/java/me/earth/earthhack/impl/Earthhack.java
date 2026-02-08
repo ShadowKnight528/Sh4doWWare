@@ -14,8 +14,8 @@ import static me.earth.earthhack.api.util.interfaces.Globals.mc;
 public class Earthhack implements ClientModInitializer {
 
     private static final Logger LOGGER = LogManager.getLogger("3arthh4ck");
-    public static final String NAME = "3arthh4ck";
-    public static final String VERSION = "1.0.5";
+    public static final String NAME = "ShadoWare";
+    public static final String VERSION = "(alpha 0.0.1";
     public static long startMS;
 
     @Override
