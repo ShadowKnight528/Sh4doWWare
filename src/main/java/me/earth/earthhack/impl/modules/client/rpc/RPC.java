@@ -25,7 +25,7 @@ public class RPC extends Module {
 
     /* ---------------- Common settings -------------- */
     public final Setting<String> Line1 =
-            register(new StringSetting("Line1", "3arthh4ck"));
+            register(new StringSetting("Line1", "ShadoWare"));
     public final Setting<String> Line2 =
             register(new StringSetting("Line2", ""));
     public final Setting<Boolean> showIP =
