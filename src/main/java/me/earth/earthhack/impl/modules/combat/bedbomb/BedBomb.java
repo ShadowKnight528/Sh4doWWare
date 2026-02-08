@@ -115,8 +115,8 @@ public class BedBomb extends Module
 
     public BedBomb()
     {
-        super("BedBomb", Category.Combat);
-        this.setData(new SimpleData(this, "Quick and dirty Port of the awful old Phobos BedBomb."));
+        super("AutoTerroristAssault", Category.Combat);
+        this.setData(new SimpleData(this, "ALLAHUU AKBARRRRRRRR!!"));
         this.listeners.add(new EventListener<MotionUpdateEvent>(MotionUpdateEvent.class)
         {
             @Override
